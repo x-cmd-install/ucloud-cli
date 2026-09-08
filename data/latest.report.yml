@@ -5,7 +5,7 @@ about:
   head: 713ed48
   archived: false
   latestVersion: "v0.3.10"
-  collectedAt: 2026-09-08T01:50:29Z
+  collectedAt: 2026-09-08T04:25:06Z
 timeline:
   created: 2018-08-30
   lastCommit: 2026-07-22
@@ -83,7 +83,7 @@ total:
   commit: 509
 ---
 path: /home/runner/.x-repo/github.com/ucloud/ucloud-cli
-collectedAt: 2026-09-08T01:50:33Z
+collectedAt: 2026-09-08T04:25:10Z
 loc:
   Go:
     code: 50618
