@@ -1,0 +1,24 @@
+- repo: aur
+  srcname: ucloud-cli
+  binname: ucloud-cli
+  visiblename: ucloud-cli
+  version: 0.3.3
+  origversion: 0.3.3-1
+  status: unique
+  summary: Command line interface for UCloud services
+  maintainers:
+    - mingming@aur
+  licenses:
+    - Apache-2.0
+- repo: aur
+  srcname: ucloud-cli-bin
+  binname: ucloud-cli-bin
+  visiblename: ucloud-cli-bin
+  version: 0.3.3
+  origversion: 0.3.3-1
+  status: unique
+  summary: Command line interface for UCloud services
+  maintainers:
+    - mingming@aur
+  licenses:
+    - Apache-2.0

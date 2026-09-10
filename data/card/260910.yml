@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.3.10"
   latestRelease: "v0.3.10"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T16:09:25Z
+  collectedAt: 2026-09-10T20:14:11Z
 timeline:
   created: 2018-08-30
   lastCommit: 2026-07-22
@@ -45,7 +45,7 @@ recent:
     openPR: 1
     closedIssue: 1
     openIssue: 0
-    commit: 0
+    commit: 17
   last90d:
     since: 2026-06-12
     release: 10
@@ -53,7 +53,7 @@ recent:
     openPR: 1
     closedIssue: 1
     openIssue: 1
-    commit: 0
+    commit: 225
   last180d:
     since: 2026-03-14
     release: 10
@@ -61,7 +61,7 @@ recent:
     openPR: 1
     closedIssue: 1
     openIssue: 1
-    commit: 0
+    commit: 229
   last360d:
     since: 2025-09-15
     release: 10
@@ -69,7 +69,7 @@ recent:
     openPR: 1
     closedIssue: 1
     openIssue: 1
-    commit: 0
+    commit: 229
   last720d:
     since: 2024-09-20
     release: 11
@@ -87,7 +87,7 @@ total:
   commit: 509
 ---
 path: /home/runner/.x-repo/github.com/ucloud/ucloud-cli
-collectedAt: 2026-09-10T16:09:36Z
+collectedAt: 2026-09-10T20:14:15Z
 loc:
   Go:
     code: 50618
