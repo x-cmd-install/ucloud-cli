@@ -22,7 +22,18 @@ x install ucloud-cli
 - **Latest**: `v0.3.10` (2026-07-22)
 - **Last commit**: 2026-07-22
 - **Assets in release**: 7
-- **Published**: 2026-07-22T03:20:06Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [ucloud-cli_0.3.10_checksums.txt](https://github.com/ucloud/ucloud-cli/releases/download/v0.3.10/ucloud-cli_0.3.10_checksums.txt) | 540 B | `other` |
+| [ucloud-darwin_amd64.zip](https://github.com/ucloud/ucloud-cli/releases/download/v0.3.10/ucloud-darwin_amd64.zip) | 6.7 MiB | `native/darwin/x64` |
+| [ucloud-darwin_arm64.zip](https://github.com/ucloud/ucloud-cli/releases/download/v0.3.10/ucloud-darwin_arm64.zip) | 6.4 MiB | `native/darwin/arm64` |
+| [ucloud-linux_amd64.zip](https://github.com/ucloud/ucloud-cli/releases/download/v0.3.10/ucloud-linux_amd64.zip) | 6.6 MiB | `native/linux/x64` |
+| [ucloud-linux_arm64.zip](https://github.com/ucloud/ucloud-cli/releases/download/v0.3.10/ucloud-linux_arm64.zip) | 6.0 MiB | `native/linux/arm64` |
+| [ucloud-windows_amd64.zip](https://github.com/ucloud/ucloud-cli/releases/download/v0.3.10/ucloud-windows_amd64.zip) | 6.8 MiB | `native/win/x64` |
+| [ucloud-windows_arm64.zip](https://github.com/ucloud/ucloud-cli/releases/download/v0.3.10/ucloud-windows_arm64.zip) | 6.1 MiB | `native/win/arm64` |
 
 ## Popularity
 
@@ -37,8 +48,8 @@ x install ucloud-cli
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 1 | 0 | 0 | 0 |
-| 90d | 2026-06-12 | 10 | 47 | 1 | 1 | 1 | 225 |
-| 360d | 2025-09-15 | 10 | 48 | 1 | 1 | 1 | 229 |
+| 90d | 2026-06-12 | 10 | 47 | 1 | 1 | 1 | 0 |
+| 360d | 2025-09-15 | 10 | 48 | 1 | 1 | 1 | 0 |
 
 ## Code size
 
@@ -67,8 +78,8 @@ Lowest-scoring checks:
 Install metadata for ucloud-cli lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `ucloud-cli` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/ucloud-cli.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/ucloud-cli.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:31:16Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:09:43Z._
