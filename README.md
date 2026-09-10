@@ -1,24 +1,74 @@
 # ucloud-cli
 
+[中文版本](./README.cn.md)
+
 UCloud Command Line Interface
 
-- **Upstream**: <https://github.com/ucloud/ucloud-cli>
-- **Homepage**: <>
-- **Latest release**: `v0.3.10` (2026-07-22)
-- **Last commit**: 2026-07-22
-- **License**: Apache-2.0
-- **Stars**: 101 · **Forks**: 68 · **Open issues**: 9 · **Contributors**: 21
+![ucloud-cli](https://repo.x-cmd.io/ucloud-cli.svg)
 
-## Installation
+## Install
 
 ```sh
 x install ucloud-cli
 ```
 
-See <https://x-cmd.com/install/ucloud-cli> for details.
+## Source
 
-## Data
+- **Upstream**: <https://github.com/ucloud/ucloud-cli>
+- **License**: Apache-2.0
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
+## Release
 
-_Last regenerated: 2026-09-09T18:44:28Z._
+- **Latest**: `v0.3.10` (2026-07-22)
+- **Last commit**: 2026-07-22
+- **Assets in release**: 7
+- **Published**: 2026-07-22T03:20:06Z
+
+## Popularity
+
+- **Stars**: 101 · **Forks**: 68 · **Open issues**: 9 · **Contributors**: 21
+
+## Totals (cumulative)
+
+- **Releases**: 61 · **Merged PRs**: 129 · **Open PRs**: 1 · **Closed issues**: 7 · **Open issues**: 2 · **Commits**: 509
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 0 | 1 | 0 | 0 | 0 |
+| 90d | 2026-06-12 | 10 | 47 | 1 | 1 | 1 | 225 |
+| 360d | 2025-09-15 | 10 | 48 | 1 | 1 | 1 | 229 |
+
+## Code size
+
+Total: **50,950** lines of code across **842** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Go | 50,618 | 3,786 | 6,729 | 802 |
+| Yaml | 225 | 19 | 0 | 37 |
+| Sh | 63 | 14 | 12 | 1 |
+| RPMSpecfile | 15 | 3 | 5 | 1 |
+| Makefile | 14 | 0 | 4 | 1 |
+
+## OpenSSF Scorecard
+
+Overall score: **3.5 / 10**
+
+Lowest-scoring checks:
+
+- **Dangerous-Workflow** (0/10) — dangerous workflow patterns detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+
+## Improve this data
+
+Install metadata for ucloud-cli lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `ucloud-cli` is missing, out of date, or installs incorrectly, please open an issue or PR there:
+
+- **Open an issue**: <https://github.com/x-cmd/install/issues/new>
+- **Edit the package entry**: <https://github.com/x-cmd/edit/main/ucloud-cli.yml> (or whichever path the index uses)
+
+The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
+
+_Snapshot: `data/card/260910.yml` · 2026-09-10T04:31:16Z._
