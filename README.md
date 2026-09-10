@@ -12,46 +12,7 @@ UCloud Command Line Interface
 x install ucloud-cli
 ```
 
-## Source
-
-- **Upstream**: <https://github.com/ucloud/ucloud-cli>
-- **License**: Apache-2.0
-
-## Release
-
-- **Latest**: `v0.3.10` (2026-07-22)
-- **Last commit**: 2026-07-22
-- **Assets in release**: 7
-
-## Release assets
-
-| Asset | Size | Target |
-|-------|-----:|--------|
-| [ucloud-cli_0.3.10_checksums.txt](https://github.com/ucloud/ucloud-cli/releases/download/v0.3.10/ucloud-cli_0.3.10_checksums.txt) | 540 B | `other` |
-| [ucloud-darwin_amd64.zip](https://github.com/ucloud/ucloud-cli/releases/download/v0.3.10/ucloud-darwin_amd64.zip) | 6.7 MiB | `native/darwin/x64` |
-| [ucloud-darwin_arm64.zip](https://github.com/ucloud/ucloud-cli/releases/download/v0.3.10/ucloud-darwin_arm64.zip) | 6.4 MiB | `native/darwin/arm64` |
-| [ucloud-linux_amd64.zip](https://github.com/ucloud/ucloud-cli/releases/download/v0.3.10/ucloud-linux_amd64.zip) | 6.6 MiB | `native/linux/x64` |
-| [ucloud-linux_arm64.zip](https://github.com/ucloud/ucloud-cli/releases/download/v0.3.10/ucloud-linux_arm64.zip) | 6.0 MiB | `native/linux/arm64` |
-| [ucloud-windows_amd64.zip](https://github.com/ucloud/ucloud-cli/releases/download/v0.3.10/ucloud-windows_amd64.zip) | 6.8 MiB | `native/win/x64` |
-| [ucloud-windows_arm64.zip](https://github.com/ucloud/ucloud-cli/releases/download/v0.3.10/ucloud-windows_arm64.zip) | 6.1 MiB | `native/win/arm64` |
-
-## Popularity
-
-- **Stars**: 101 · **Forks**: 68 · **Open issues**: 9 · **Contributors**: 21
-
-## Totals (cumulative)
-
-- **Releases**: 61 · **Merged PRs**: 129 · **Open PRs**: 1 · **Closed issues**: 7 · **Open issues**: 2 · **Commits**: 509
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 1 | 0 | 0 | 0 |
-| 90d | 2026-06-12 | 10 | 47 | 1 | 1 | 1 | 0 |
-| 360d | 2025-09-15 | 10 | 48 | 1 | 1 | 1 | 0 |
-
-## Code size
+## Code insight
 
 Total: **50,950** lines of code across **842** files in the top 5 languages.
 
@@ -73,6 +34,48 @@ Lowest-scoring checks:
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
+## Source
+
+- **Upstream**: <https://github.com/ucloud/ucloud-cli>
+- **License**: Apache-2.0
+
+## Release
+
+- **Latest**: `v0.3.10` (2026-07-22)
+- **Last commit**: 2026-07-22
+- **Assets in release**: 7
+
+## Popularity
+
+- **Stars**: 101 · **Forks**: 68 · **Open issues**: 9 · **Contributors**: 21
+
+## Totals (cumulative)
+
+- **Releases**: 61 · **Merged PRs**: 129 · **Open PRs**: 1 · **Closed issues**: 7 · **Open issues**: 2 · **Commits**: 509
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 4 | 31 | 1 | 1 | 0 | 17 |
+| 90d | 2026-06-12 | 10 | 47 | 1 | 1 | 1 | 225 |
+| last180d | 2026-03-14 | 10 | 48 | 1 | 1 | 1 | 229 |
+| 360d | 2025-09-15 | 10 | 48 | 1 | 1 | 1 | 229 |
+| last720d | 2024-09-20 | 11 | 50 | 1 | 1 | 1 | 290 |
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [ucloud-cli_0.3.10_checksums.txt](https://github.com/ucloud/ucloud-cli/releases/download/v0.3.10/ucloud-cli_0.3.10_checksums.txt) | 540 B | `other` |
+| [ucloud-darwin_amd64.zip](https://github.com/ucloud/ucloud-cli/releases/download/v0.3.10/ucloud-darwin_amd64.zip) | 6.7 MiB | `native/darwin/x64` |
+| [ucloud-darwin_arm64.zip](https://github.com/ucloud/ucloud-cli/releases/download/v0.3.10/ucloud-darwin_arm64.zip) | 6.4 MiB | `native/darwin/arm64` |
+| [ucloud-linux_amd64.zip](https://github.com/ucloud/ucloud-cli/releases/download/v0.3.10/ucloud-linux_amd64.zip) | 6.6 MiB | `native/linux/x64` |
+| [ucloud-linux_arm64.zip](https://github.com/ucloud/ucloud-cli/releases/download/v0.3.10/ucloud-linux_arm64.zip) | 6.0 MiB | `native/linux/arm64` |
+| [ucloud-windows_amd64.zip](https://github.com/ucloud/ucloud-cli/releases/download/v0.3.10/ucloud-windows_amd64.zip) | 6.8 MiB | `native/win/x64` |
+| [ucloud-windows_arm64.zip](https://github.com/ucloud/ucloud-cli/releases/download/v0.3.10/ucloud-windows_arm64.zip) | 6.1 MiB | `native/win/arm64` |
+
 ## Improve this data
 
 Install metadata for ucloud-cli lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `ucloud-cli` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -82,4 +85,4 @@ Install metadata for ucloud-cli lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:09:43Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T20:14:24Z._
