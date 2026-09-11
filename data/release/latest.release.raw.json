@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 540,
       "digest": "sha256:2dd938aac48438f87f95db27d3c796059e221ee8114b10606672b80a432ab1be",
-      "download_count": 34,
+      "download_count": 36,
       "created_at": "2026-07-22T03:20:05Z",
       "updated_at": "2026-07-22T03:20:05Z",
       "browser_download_url": "https://github.com/ucloud/ucloud-cli/releases/download/v0.3.10/ucloud-cli_0.3.10_checksums.txt"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 6890523,
       "digest": "sha256:f2a4670034ab86e88d3c4d276d7b9e16e1f4da8176e8422c92b7e1f2a7be9616",
-      "download_count": 62,
+      "download_count": 65,
       "created_at": "2026-07-22T03:20:05Z",
       "updated_at": "2026-07-22T03:20:06Z",
       "browser_download_url": "https://github.com/ucloud/ucloud-cli/releases/download/v0.3.10/ucloud-linux_amd64.zip"
